@@ -10,4 +10,4 @@ Reflection
 // Your reflection goes here
  
 
-In today session we were introduced to git/github, we were shown a quick demo on the advantgaes of using VS Code. We've also had an intro on how to commit changes in files to a repo 
+In today session we were introduced to git/github, we were shown a quick demo on the advantgaes of using VS Code. We've also had an intro on how to commit changes in files to a repo which we cloned to our desktops.
