@@ -1,10 +1,14 @@
 img{
     max-width: width 300px; ;
 }
-
+body{
+    font-size: 50%;
+}
 p{
     color: slateblue;
+    background-color:whitesmoke;
+    font
 }
-h1{ background-color: tan;}
+h1{ background-color: tan;
 h2{ background-color: yellowgreen;}
 h3{color:red}
