@@ -1,5 +1,7 @@
 header, main, footer {
     border: 1px solid green;
-    margin: 20px;
+    margin: 20px auto;
     padding: 5px,5px;
+    width: 75%;
+    text-align: center;
 }
