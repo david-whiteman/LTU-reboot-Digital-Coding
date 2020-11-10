@@ -1,4 +1,5 @@
 function name( firstName, lastName ) {
     return(firstName +" " + lastName);
 }
-console.log(name("David","Whiteman"));
+
+var usersName = name("David","Whiteman")
