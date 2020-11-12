@@ -5,4 +5,4 @@ var percentageOf = ( number * percentage / 100);
 return percentageOf ;
 }
 
-document.write ( percentageCalculator(100,25));
+console.log ( percentageCalculator(100,25));
