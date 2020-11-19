@@ -60,7 +60,7 @@ quantity:3,
 price:.4
 }​​];
 
-function shoppingCartTotalPrice ( arr ){// 1. Create function that takes 1 argument (the array)
+function shoppingCartTotalPrice ( arr ){ // 1. Create function that takes 1 argument (the array)
     var totalPrice = 0; // 2. Create a variable inside the function called 'total price'
 
     // 3. Loop through each item in the array and add the value of the item to the total price, remember to account for the quantity
